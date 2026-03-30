@@ -8,8 +8,7 @@
 ## **Group Members**
 
 | Name | Student ID | Email |
-| :---- | :---- | :---- |
-| Jane Doe | 301111111 | jane.doe@university.edu |
+| Christopher Shannon | 301540245| csa155@sfu.ca |
 | John Smith | 301222222 | john.smith@university.edu |
 
 ## **1\. Project Overview & Description**
